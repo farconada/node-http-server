@@ -1,0 +1,6 @@
+{
+  "basedir": "./dist/",
+  "port": 3000,
+  "default_file": "index.html",
+  "server_id": "TNAW http Server v.1.0"
+}
