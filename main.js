@@ -1,4 +1,6 @@
 import {Server, logger} from './server';
+import Log4js from 'log4js';
+
 const CONF = require('./config.json');
 
 Log4js.loadAppender('file');
